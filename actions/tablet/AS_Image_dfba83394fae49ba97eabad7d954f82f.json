@@ -1,0 +1,29 @@
+{
+    "AS_Image_dfba83394fae49ba97eabad7d954f82f": {
+        "id": "AS_Image_dfba83394fae49ba97eabad7d954f82f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmContanierContentKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c772be540d4540299db0d4d984c46eec"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__fb67394db20d4243b1d3a17528352204",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "trancitionWidgets(\"flxMenuKA\", \"-30%\", 0, \"0.5\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizSwitch",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_skin_": "s7a2c8fba4d3479e888590131d7540bf",
+    "_top_": {
+        "type": "string",
+        "value": "59%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "55dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "id": "SwchRememberMeKA",
+    "info": null,
+    "isvisible": true,
+    "kiosk": {
+        "render": false
+    },
+    "kuid": "0373d5178e904320a34be881598e0fad",
+    "leftsidetext": "ON",
+    "name": "kony.ui.Switch",
+    "osPlatform": "ipad",
+    "osVersion": "iOS7",
+    "parent": "flxContainerSpaceLoginKA",
+    "pf": "frmLoginKA",
+    "rightsidetext": "OFF",
+    "selectedindex": 0,
+    "wType": "Switch",
+    "widgetalignment": 5,
+    "zindex": 1
+}

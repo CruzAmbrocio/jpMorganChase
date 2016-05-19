@@ -1,0 +1,23 @@
+{
+    "AS_FlexContainer_2f7cfe4d69904af0b9f8e17fa6de328f": {
+        "id": "AS_FlexContainer_2f7cfe4d69904af0b9f8e17fa6de328f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmContanierContentKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "c772be540d4540299db0d4d984c46eec"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__5f51dfa5fc984c61aff409e7b525196a",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "trancitionWidgets(\"lblLineSelectedBigKA\", \"0%\", 0, 0.2);\nfrmContanierContentKA.lblTextMontlyKA.skin = sknLblOpenSRffffff130KA;\nfrmContanierContentKA.lblTextRegionKA.skin = sknLblOpenSR939297130KAs;\nfrmContanierContentKA.lblTextLobKA.skin = sknLblOpenSR939297130KAs;",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}
