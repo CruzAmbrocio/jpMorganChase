@@ -5,11 +5,7 @@
     "_base64_": null,
     "_height_": {
         "type": "string",
-        "value": "61dp"
-    },
-    "_left_": {
-        "type": "string",
-        "value": "444dp"
+        "value": "58.91%"
     },
     "_margin_": [
         0,
@@ -24,16 +20,20 @@
         0
     ],
     "_skin_": "s688e5103ad3418ab3d3db3fe206a8c5",
-    "_src_": "imagedrag.png",
-    "_top_": {
-        "type": "string",
-        "value": "28dp"
-    },
+    "_src_": "ssidebarimage.png",
     "_width_": {
         "type": "string",
-        "value": "45dp"
+        "value": "56.91%"
     },
     "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
     "containerweight": 100,
     "context": {
         "channel": "tablet",
@@ -42,17 +42,16 @@
         "templateType": "forms",
         "topLevelBox": null
     },
-    "id": "Image012d67999db0147",
+    "id": "Image0e6656533199c48",
     "imagescalemode": 1,
     "info": null,
     "isvisible": true,
-    "kuid": "360e7935a57c452191fdea9c9e20a154",
+    "kuid": "e1d5a4a83676418fbcfb947c5d0a96d1",
     "name": "kony.ui.Image2",
-    "ontouchend": "AS_Image_24393cc602be4eb28d1cb09c0ab767ae",
-    "parent": "flxHeaderContentKA",
+    "ontouchstart": "AS_Image_796479c9ee9948e2a7b33658fe5aec18",
+    "parent": "FlexContainer0b30436c79bc849",
     "pf": "frmContanierContentKA",
     "srcType": 1,
     "wType": "Image",
-    "widgetalignment": 5,
-    "zindex": 1
+    "widgetalignment": 5
 }

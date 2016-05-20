@@ -15,7 +15,7 @@
         "actions": [{
             "id": "ADD_SNIPPET__c912a3cd8c044dfdb58b494836b97980",
             "type": "ADD_SNIPPET",
-            "codeSnippet": "trancitionWidgets(\"lblLineSelectedBigKA\", \"12.5%\", 0, 0.2);\nfrmContanierContentKA.lblTextMontlyKA.skin = sknLblOpenSR939297130KAs;\nfrmContanierContentKA.lblTextRegionKA.skin = sknLblOpenSR939297130KAs;\nfrmContanierContentKA.lblTextLobKA.skin = sknLblOpenSRffffff130KA;",
+            "codeSnippet": "trancitionWidgets(\"lblLineSelectedBigKA\", \"25%\", 0, 0.2);\nfrmContanierContentKA.lblTextMontlyKA.skin = sknLblOpenSR939297130KAs;\nfrmContanierContentKA.lblTextRegionKA.skin = sknLblOpenSR939297130KAs;\nfrmContanierContentKA.lblTextLobKA.skin = sknLblOpenSRffffff130KA;",
             "parentId": null,
             "callbackType": null
         }]

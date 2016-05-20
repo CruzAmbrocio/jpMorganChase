@@ -7,7 +7,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "-30%"
+        "value": "0%"
     },
     "_margin_": [
         0,
@@ -36,7 +36,7 @@
         "value": "50%"
     },
     "children": [
-        "CheckBoxGroup004fc876c673a45"
+        "FlexContainer009fe5fb61db049"
     ],
     "clipbounds": true,
     "containerweight": 100,

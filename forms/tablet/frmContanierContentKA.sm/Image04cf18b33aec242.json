@@ -1,0 +1,55 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s688e5103ad3418ab3d3db3fe206a8c5",
+    "_src_": "ssidebarimage.png",
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "context": {
+        "channel": "tablet",
+        "formID": "frmContanierContentKA",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "id": "Image04cf18b33aec242",
+    "imagescalemode": 1,
+    "info": null,
+    "isvisible": true,
+    "kuid": "55a2f26dc0f949d79b0a29dae5bf192b",
+    "name": "kony.ui.Image2",
+    "parent": "FlexContainer009fe5fb61db049",
+    "pf": "frmContanierContentKA",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5
+}
